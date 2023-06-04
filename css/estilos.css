@@ -1,0 +1,10 @@
+body {background-color:#ffcaca;}
+.centertext {text-align:center;}
+
+.Important {color:#72002E; text-decoration: underline; text-align:center;} 
+
+.textsize {font-size: 18px; text-align:center;}
+
+.imagecenter {display: flex; justify-content: center;}
+
+.imagesize { height: 350px; width: 800px;}
